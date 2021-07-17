@@ -1,1 +1,1 @@
-# Tabuada em Ada
+# Tabuada em Ada <a title="Leah Goodreau, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Ada_Mascot_with_slogan.svg"><img width="64" alt="Ada Mascot with slogan" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ada_Mascot_with_slogan.svg/512px-Ada_Mascot_with_slogan.svg.png"></a>
